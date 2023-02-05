@@ -12,6 +12,6 @@ import java.io.Serializable;
 //@RequestScoped // 1 istek boyunca
 //@SessionScoped // 1 kullanıcı için yaşar ancak logout
 //@Dependent // bukelemon
-@ConversationScoped // belli istek bounca yaşar.
+//@ConversationScoped // belli istek bounca yaşar.
 public class _00_Scoped {
 }
